@@ -1,0 +1,26 @@
+#+TITLE: Socratic AI Comments
+#+DESCRIPTION: Comments for socraticai.co blog posts
+
+* Overview
+
+This repository hosts comments for [[https://socraticai.co][socraticai.co]] blog posts, powered by [[https://giscus.app][Giscus]].
+
+* How It Works
+
+- Blog post comments are stored as GitHub Discussions in this repo
+- Readers authenticate with GitHub to comment
+- Each blog post maps to a discussion thread via URL pathname
+- Comments sync with the site's light/dark theme
+
+* For Readers
+
+To leave a comment on a blog post:
+1. Scroll to the comments section at the bottom of any post
+2. Sign in with your GitHub account
+3. Write your comment
+
+* Links
+
+- Website: [[https://socraticai.co][socraticai.co]]
+- Discussions: [[https://github.com/incandescentman/socratic-ai-comments/discussions][View all comments]]
+- Giscus: [[https://giscus.app][giscus.app]]
